@@ -10,7 +10,7 @@
     "firebase-init": "firebase login && firebase init",
     "firebase-add": "firebase use --add"
   },
-  "author": "",
+  "author": "codeandplay",
   "babel": {
     "presets": [
       "env",
